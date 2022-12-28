@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "n0-QzSYBvizTzFsxBixWIvUIfcc",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SfOiG6h61KGbVdoa88s_UD-78X8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LoOIwdRIZaA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T07:24:27Z",
+        "channelId": "UCeGJ6v6KQt0s88hGKMfybuw",
+        "title": "Tuesday Morning Jazz: Sweet December Jazz &amp; Winter Bossa Nova Music for a Good Mood",
+        "description": "Tuesday Morning Jazz: Sweet December Jazz & Winter Bossa Nova Music for a Good Mood https://youtu.be/LoOIwdRIZaA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LoOIwdRIZaA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LoOIwdRIZaA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LoOIwdRIZaA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cozy Jazz Music",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-26T07:24:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sXcDVsTwHUewOVnf-6hH4LGuDpo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BNYmLERK0P4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T07:00:04Z",
+        "channelId": "UCEiS8m8OLFI0REntmsTvzjA",
+        "title": "FLYING OVER SWITZERLAND (4K UHD) - Relaxing Music Along With Beautiful Nature Videos - 4K Video HD",
+        "description": "Destination Switzerland, a Nations Online country profile of the Swiss Confederation. Helvetia, how the country was called in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BNYmLERK0P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BNYmLERK0P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BNYmLERK0P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Piano Relaxing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T07:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "82iZD0KaVkoxdtBr5Lxlgu5Qrug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jXivI3DFvDk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T15:23:33Z",
+        "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+        "title": "TUESDAY MORNING JAZZ: Happy Jazz &amp; Winter Bossa Nova Music for Good Mood",
+        "description": "Listen Everywhere → Good Morning TUESDAY: https://lnk.to/xRqlzvuj. Please Subscribe!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jXivI3DFvDk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jXivI3DFvDk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXivI3DFvDk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cafe Music BGM channel",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-26T15:23:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l3BpXzmGJcbGF81u74yOu58I1Dw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HsSpKkDlSh0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T23:00:08Z",
+        "channelId": "UC9qr4fem8L5HEx0IDoktEpw",
+        "title": "TOP 40 Songs of 2022 2023 🔥 Best English Songs (Best Hit Music Playlist) on Spotify",
+        "description": "TOP 40 Songs of 2022 2023 Best English Songs (Best Hit Music Playlist) on Spotify Welcome to Pop Internacionais ! On this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HsSpKkDlSh0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HsSpKkDlSh0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HsSpKkDlSh0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pop Internacionais",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-26T23:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a4ofMBe1CgLf-8CNbnuN5FPfvAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QsBC8WwxBvA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T06:30:53Z",
+        "channelId": "UCjtVPzDOEHKaioBOJKMFTDw",
+        "title": "The Best Of Slow Blues / Rock Ballads - Beautiful Relaxing Blues Music - Moody Blues Songs For You",
+        "description": "BluesMusic #SlowBlues #WhiskeyBlues #RelaxingBlues The Best Of Slow Blues / Rock Ballads - Beautiful Relaxing Blues Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QsBC8WwxBvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QsBC8WwxBvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QsBC8WwxBvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Midnight Whiskey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T06:30:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W_LzS3lxKeVkETpRxlpAP_jPfIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "byc14uhe8I8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T06:00:41Z",
+        "channelId": "UC96X5J7b0PTj0Z0-RJDS8nA",
+        "title": "New Music Mix 2022 🎧 Remixes of Popular Songs 🎧 EDM Best Music Mix",
+        "description": "Listen on Spotify: https://magicmusic.link/BestCarPlaylist https://deepuniverse.lnk.to/HouseMusic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/byc14uhe8I8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/byc14uhe8I8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/byc14uhe8I8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EDM Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T06:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lQl4S1jKljSUwErrHKSTU4rHLRc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FtWgjQgDGts"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T14:55:39Z",
+        "channelId": "UC4zvcd2F0UebXfG4LfygTmQ",
+        "title": "Old Vs New Bollywood Mashup 2023 | Superhits Romantic Hindi Songs Mashup Live - DJ MaShUP 2023",
+        "description": "Old Vs New Bollywood Mashup 2023 | Superhits Romantic Hindi Songs Mashup Live - DJ MaShUP 2023 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtWgjQgDGts/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtWgjQgDGts/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtWgjQgDGts/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "New Hindi PartyMix",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-26T14:55:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gfqv_iqJGlBfiNSwmxJU6tIdfJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GUQFQiYWc7E"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-18T10:00:08Z",
+        "channelId": "UCgsTgyATKBhaRzh69swGdIQ",
+        "title": "Songs make you sing out loud ~ Familiar songs that make you sing along",
+        "description": "Songs make you sing out loud ~ Familiar songs that make you sing along #ACvibes #singoutloud #singalong Hope you guys ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GUQFQiYWc7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GUQFQiYWc7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GUQFQiYWc7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A.C Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-18T10:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OmcT_ixmmBtBgMfaU5qT0IJcqIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mNEUkkoUoIA"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-13T04:00:11Z",
+        "channelId": "UCQ5kHOKpF3-1_UCKaqXARRg",
+        "title": "OneRepublic - I Ain’t Worried (From “Top Gun: Maverick”) [Official Music Video]",
+        "description": "Stream OneRepublic's “I Ain't Worried” from 'Top Gun: Maverick': http://OneRepublic.lnk.to/iaintworried Listen to “Top Gun: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNEUkkoUoIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OneRepublicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-13T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H39N2DecpqIJx3bDe1lKUNc4iII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RU7xC9AJ3ps"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T03:03:08Z",
+        "channelId": "UCeccof3xATHRJVYTGx36wdw",
+        "title": "Best Of OPM Acoustic Love Songs 2023 Playlist 1345 ❤️ Top Tagalog Acoustic Songs Cover Of All Time",
+        "description": "Best Of OPM Acoustic Love Songs 2023 Playlist 1345 ❤️ Top Tagalog Acoustic Songs Cover Of All Time If this music makes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RU7xC9AJ3ps/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RU7xC9AJ3ps/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RU7xC9AJ3ps/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OPM Acoustic",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-27T03:03:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vi3pK1olTUcrX0YVCRhw8DhLYmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e6H-F1nQrrg"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T00:34:37Z",
+        "channelId": "UC4-x-tK1L3mmBozcNjLH_0Q",
+        "title": "Best Christmas Songs Of All Time 🎁 Top 100 Hits Christmas Music 🎄 Christmas Songs Playlist 2023",
+        "description": "Best Christmas Songs Of All Time Top 100 Hits Christmas Music Christmas Songs Playlist 2023 Best Christmas Songs Of All ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e6H-F1nQrrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e6H-F1nQrrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6H-F1nQrrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hits Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-25T00:34:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6YYtcm3GISSAGwzHcWR5RUvCbkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5mvhFjnj4a0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T01:37:03Z",
+        "channelId": "UCvaHKkEc9vZa3KWGT49wkuQ",
+        "title": "TOP 100 REGGAE LOVE SONGS ⚡ MOST REQUESTED REGGAE LOVE SONGS 2023 ⚡ RELAXING ROAP TRIP REGGAE SONGS",
+        "description": "TOP 100 REGGAE LOVE SONGS ⚡ MOST REQUESTED REGGAE LOVE SONGS 2023 ⚡ RELAXING ROAP TRIP REGGAE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5mvhFjnj4a0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5mvhFjnj4a0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5mvhFjnj4a0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Library Classic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T01:37:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eD0WW7v9s-_AL6sZS2QHgaujkz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PEM0Vs8jf1w"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-12T14:00:11Z",
+        "channelId": "UCSOfUqPoqpp5aWDDnAyv94g",
+        "title": "JVKE - golden hour (official music video)",
+        "description": "Official Music Video for \"golden hour\" byJVKE STREAM \"golden hour\": https://jvke.ffm.to/goldenhour *NEW ALBUM* this is what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JVKE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-12T14:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fOP0PHSD7dfVmRaj_zHBOhc7GBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3jgH5weXYwA"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-28T05:03:57Z",
+        "channelId": "UCcsrHJDzOxM7foZQWiBr8qQ",
+        "title": "TOP 40 Songs of 2021 2022 \\ Best English Songs  (Best Hit Music Playlist) on Spotify  @skymusicpe",
+        "description": "TOP 40 Songs of 2021 2022 \\ Best English Songs 2021 (Best Hit Music Playlist) on Spotify @skymusicpe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3jgH5weXYwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3jgH5weXYwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3jgH5weXYwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky Music PE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-28T05:03:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qaz4fbozRB5BXx74C2rCNsYl01c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xd582ryxIbM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-15T10:00:26Z",
+        "channelId": "UCgsTgyATKBhaRzh69swGdIQ",
+        "title": "If you know these songs you had a good childhood",
+        "description": "If you know these songs you had a good childhood #ACvibes #childhoodsongs #throwbacksongs Suggested Video: Feeling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xd582ryxIbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xd582ryxIbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xd582ryxIbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A.C Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-15T10:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1j1fMqSFcSuG3UGgKlVh-lL1AH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aLW8GBVAdP4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T18:30:02Z",
+        "channelId": "UCfzjoVrSU7K5zUR4FaBLx3A",
+        "title": "10 Outdated Rocket League Tips To STOP DOING in 2023",
+        "description": "DM Me \"SPRING\" On Discord: https://www.grandchamproadmap.info/trainingclub In this tutorial, I cover 10 Rocket League tips ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLW8GBVAdP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLW8GBVAdP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLW8GBVAdP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SpookLuke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-26T18:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QqY4oyhfbrojDBuWECwdiAnJGOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wqd_8x5RdEY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T07:00:39Z",
+        "channelId": "UCdWmirD6MzuTFeUAtAv4TKQ",
+        "title": "Music Mix 2022 🎧 Remixes of Popular Songs 🎧 EDM Bass Boosted Music Mix",
+        "description": "Listen on Spotify: https://magicmusic.link/BestCarPlaylist https://deepuniverse.lnk.to/HouseMusic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wqd_8x5RdEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wqd_8x5RdEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqd_8x5RdEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forever Young",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T07:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZnzDM9GOfxF0lQfllXc0ZMcsKWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9MF5q71z_fU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T22:39:37Z",
+        "channelId": "UCJkavOmVQ9vwss_Vo8spFFQ",
+        "title": "𝑺𝒕𝒂𝒓𝒃𝒖𝒄𝒌𝒔 𝑴𝒖𝒔𝒊𝒄: ☕ 星巴克音樂 🥤 令人放鬆的爵士咖啡音樂伴著快樂和好心情的春天 - Starbucks Coffee Jazz Playlist",
+        "description": "Starbucks Music: ☕ 星巴克音樂   令人放鬆的爵士咖啡音樂伴著快樂和好心情的春天- Starbucks Coffee Jazz Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9MF5q71z_fU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9MF5q71z_fU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9MF5q71z_fU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Joy Music - Jazz Taiwan",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-26T22:39:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bn8K9EvdAgbd8QJOVFuDin0isOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eRI7_JMArwA"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-28T08:36:18Z",
+        "channelId": "UCIitwYtRrd2JGTTe1B0IAJA",
+        "title": "Music Mix 2022 🎧 EDM Remixes of Popular Songs 🎧 EDM Gaming Music Mix ​",
+        "description": "Music Mix 2022 EDM Remixes of Popular Songs EDM Gaming Music Mix ​ Listen on Spotify / Apple / Youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eRI7_JMArwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eRI7_JMArwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eRI7_JMArwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Magic Music Mix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-28T08:36:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WPvMDaHhTu4Us7oV_RFdnKJ-e2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8n5dJwWXrbo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T19:09:10Z",
+        "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+        "title": "IShowSpeed - World Cup (Official Music Video)",
+        "description": "stream world cup - https://ishowspeed.lnk.to/WorldCup merch - https://www.ishowspeedstore.com/ Director @shotbyslipz Producer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8n5dJwWXrbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8n5dJwWXrbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8n5dJwWXrbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IShowSpeed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T19:09:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t8C433-Zlb1zo8l05U6FXexjkYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S-F5mX9jetg"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T17:00:08Z",
+        "channelId": "UCRaehQPWXnJ72WmE8nvvKKw",
+        "title": "jmancurly - SHINY RÖXX (Official Music Video)",
+        "description": "Available on all platforms. Feel free to use this song in videos, just credit in the description. Big thank you to @elliotVR for helping ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S-F5mX9jetg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S-F5mX9jetg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S-F5mX9jetg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jmancurly",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-25T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qpvAuunZpdE39Z_GlFCCOkRnZAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uI8aTpYTFns"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T13:01:15Z",
+        "channelId": "UCIWAwKP3_KcWned5aLqZHtw",
+        "title": "Smooth Christmas Jazz Instrumental Music for a Peaceful Night 🎄 Cozy Christmas Coffee Shop Ambience",
+        "description": "Smooth Christmas Jazz Instrumental Music for a Peaceful Night Cozy Christmas Coffee Shop Ambience Good morning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uI8aTpYTFns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uI8aTpYTFns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uI8aTpYTFns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cozy Coffee Shop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-26T13:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dU1OG2awPz3CICafHX7ujWHru_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FppGSawWIIM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-13T00:17:15Z",
+        "channelId": "UCKyApeIVFxe4grP6e4QtdWA",
+        "title": "Best Classic Christmas Music Mix 2022 - 1 Hour Playlist 🎁🎄❄️",
+        "description": "Best Classic Christmas Songs 2022 - 1 Hour Playlist ❄️ Subscribe and ring the bell to never miss an update: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FppGSawWIIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FppGSawWIIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FppGSawWIIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Christmas Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-13T00:17:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5I8cQrDCB0k5QGi3q5Sif_dgMNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4wuVYk1yQSo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T03:22:25Z",
+        "channelId": "UCKVzPeUvluKR9EDTn8Q-bkw",
+        "title": "Winter Nights ❄️ Chill Lofi Beats [chill lo-fi hip hop beats]",
+        "description": "lofi #lofihiphop Winter Nights ❄️ Chill Lofi Beats [chill lo-fi hip hop beats] ➤ More Lofi music on Spotify playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4wuVYk1yQSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4wuVYk1yQSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4wuVYk1yQSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Vibes ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T03:22:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Lv3azkqYttP7Oo2gcZsPFm-6u0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UhbixyxgsiU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-18T14:00:07Z",
+        "channelId": "UCqwxMqUcL-XC3D9-fTP93Mg",
+        "title": "Lil Uzi Vert - Just Wanna Rock [Official Music Video]",
+        "description": "Lil Uzi Vert - Just Wanna Rock Stream/Download - https://liluzivert.lnk.to/JustWannaRock Connect with Lil Uzi Vert: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UhbixyxgsiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UhbixyxgsiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UhbixyxgsiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LIL UZI VERT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-18T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d2tYg7nJWn4KvpXicxHkPSfJGGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TkASIxWTXDk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T11:00:08Z",
+        "channelId": "UCYznj9gWzsdvnQ5VvXFqrbw",
+        "title": "Happy New Year 2023 | New Year Jazz Music 2023 | Instrumental Relaxing Jazz Music 2023 For Weekend",
+        "description": "Happy New Year 2023 | New Year Jazz Music 2023 | Instrumental Relaxing Jazz Music 2023 For Weekend Hi all! Music always ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TkASIxWTXDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TkASIxWTXDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TkASIxWTXDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relax Cafe Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-25T11:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mMcKE6Wx6t0JSlpqsP3DaDLDjsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jncML51X5Zw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T10:00:27Z",
+        "channelId": "UCgsTgyATKBhaRzh69swGdIQ",
+        "title": "Playlist of songs that&#39;ll make you dance ~ Party songs music mix",
+        "description": "Playlist of songs that'll make you dance ~ Party songs music mix #ACvibes #partysongs #dancesongs Suggested video: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jncML51X5Zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jncML51X5Zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jncML51X5Zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A.C Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T10:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Utb7E_QruQqX0cKr4XZ6qYIV1Lg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-qO2ED-l1xw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-22T21:00:07Z",
+        "channelId": "UCMA_eOj8DY3BcrpZF_vKamg",
+        "title": "Lil Mabu &amp; DD Osama - THROW (Official Music Video)",
+        "description": "Stream/Download: https://too.fm/y6a2npo tactical hoodies coming soon: https://swipetech.cc/ Follow Lil Mabu & DD Osama ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-qO2ED-l1xw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-qO2ED-l1xw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-qO2ED-l1xw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lil Mabu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-22T21:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z6VwrsQQSVEk1zyQS9vHaEqlR7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ojn968IxcHA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-17T09:18:11Z",
+        "channelId": "UCp6_KuNhT0kcFk-jXw9Tivg",
+        "title": "New Year Music Mix 2023 🎧 Best EDM Music 2023 Party Mix 🎧 Remixes of Popular Songs",
+        "description": "2023 is around the corner. Nothing is more classic for the start of a new year than a fresh EDM music mix from Magic Music!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ojn968IxcHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ojn968IxcHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ojn968IxcHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Magic Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-17T09:18:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8tj8W-eY8i3KafZ4ZcvBxj7B-U4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wdEQUOqI72g"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T00:04:19Z",
+        "channelId": "UCk9Nw3HO9MtgIkjslvydViA",
+        "title": "Chris Brown - Hands Up High (Music Video)",
+        "description": "\"Hands Up High\" by Chris Brown Just a Fan Music Video, Not OFFICIAL!!! Chris Brown - \"It's Giving Christmas\" Bundle Out Now!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wdEQUOqI72g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wdEQUOqI72g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wdEQUOqI72g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChrisBrownFan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-26T00:04:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bW34BH-17fe0_-WXPxvywUcpENc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GE2aSd727YQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T00:20:12Z",
+        "channelId": "UC9qr4fem8L5HEx0IDoktEpw",
+        "title": "2023 New Songs ( Latest English Songs 2022 ) 🥒 Pop Music 2023 New Song 🥒 New Popular Songs 2023",
+        "description": "2023 New Songs ( Latest English Songs 2022 ) Pop Music 2023 New Song New Popular Songs 2023 Welcome to Pop ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GE2aSd727YQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GE2aSd727YQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GE2aSd727YQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pop Internacionais",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T00:20:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SqRYz86fydcowG3lX7frPkHY3Vg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KX4m4TqbIK4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-23T00:00:06Z",
+        "channelId": "UCY_rCaaNn5XxbDmKB1x-JQg",
+        "title": "Valiant, Stalk Ashley - Narcissistic (Official Music Video)",
+        "description": "The official music video for \"NARCISSISTIC\" performed by Valiant x Stalk Ashley . . . Producers: Tevino “YGF\" Richards, Jaxx, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KX4m4TqbIK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KX4m4TqbIK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KX4m4TqbIK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ValiantMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-23T00:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sqs2FrhKNrTuwi1y_P3auKxb7aU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BX0lKSa_PTk"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-27T15:00:08Z",
+        "channelId": "UCHcb3FQivl6xCRcHC2zjdkQ",
+        "title": "Oliver Tree &amp; Robin Schulz - Miss You [Official Music Video]",
+        "description": "Oliver Tree & Robin Schulz - Miss You [Music Video] Stream/Download: https://olivertree.lnk.to/MissYouID Directed & Written by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BX0lKSa_PTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BX0lKSa_PTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BX0lKSa_PTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Oliver Tree",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-27T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "azajJLPR5NWnUgYtuGjo_0WVLXQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fLvGzbYGcAU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T23:00:24Z",
+        "channelId": "UCyNjOVtEqv_0xrLf-dvNCpw",
+        "title": "100 Best of Relaxing Classical Piano Music | Beautiful Romantic Piano Love Songs of All Time",
+        "description": "If you're looking for beautiful romantic piano songs to soothe your soul, look no further. This is a compilation of the best romantic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLvGzbYGcAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLvGzbYGcAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLvGzbYGcAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Romantic Piano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-26T23:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PARcQmPIvHqiRBfUIU395qgyfXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HvoYvShThL4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T14:15:09Z",
+        "channelId": "UCdgERiTAAvvQmhvSvo_09WA",
+        "title": "All I Want For Christmas Is You! Music Video by Jazzy Skye",
+        "description": "Happy Holidays! I hope you love my music video! Thank you to Shae Bennett and @TheOhanaAdventure and the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HvoYvShThL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HvoYvShThL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HvoYvShThL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jazzy Skye",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T14:15:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gLbQ8rWYyEOpc9dvBVaoQchrkWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sXDBXVjKbp8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-04T18:30:43Z",
+        "channelId": "UCh5mLn90vUaB1PbRRx_AiaA",
+        "title": "Sidemen - Christmas Drillings Ft. JME (Official Music Video)",
+        "description": "Go check out the main channel video to see the making of this banger @Sidemen BUY THE SONG HERE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXDBXVjKbp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXDBXVjKbp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXDBXVjKbp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MoreSidemen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-04T18:30:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ClKbYyj1Jo3QGlqkTvQ8yj6NL4E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lG-JkvTpsWQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-07T02:01:30Z",
+        "channelId": "UCSf0vCPZrI-T4v2LUfGrPSw",
+        "title": "Chill Songs ♫ Acoustic Love Songs 2022 🍃 Chill Music cover of popular songs",
+        "description": "Listen on Spotify: https://magicmusic.lnk.to/theBestPop Chill Songs ♫ Acoustic Love Songs 2022 Chill Music cover of popular ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lG-JkvTpsWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lG-JkvTpsWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lG-JkvTpsWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-07T02:01:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M7GZyc4Nh7SHZ2aIpC3N3ByR-Kc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "85RlZzf4vnk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-22T00:30:09Z",
+        "channelId": "UCud_Mxu9B4V6PetCy3fy1wA",
+        "title": "Eman Morom - Nayan Borgoyary // Official Bodo Music Video // Ft. Lingshar &amp; Mithi Narzary // BBC",
+        "description": "Video Credits Concept/Direction : Swrang Basumatary Starring : Lingshar Basumatary & Mithi Narzary Choreography - Bigrai ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/85RlZzf4vnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/85RlZzf4vnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/85RlZzf4vnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Boro Brother's Creation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-22T00:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xZXVnCAx6f-6sp_KjMuX_KfTBrE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ltQED5plTqM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-24T16:00:21Z",
+        "channelId": "UCkaUg9b9LplVoJdx1JwwyOg",
+        "title": "Kaniza - Kuyov jo&#39;ralar (Official Music Video)",
+        "description": "Subscribe: https://www.youtube.com/nevotv?sub_confirmation=1 • Credits: Clipmaker: Bahrom Erkaboyev Music: Shaxboz ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ltQED5plTqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ltQED5plTqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ltQED5plTqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NevoMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-24T16:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wy-pAzwCFNzpe5_ywdeR6nyMukQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lLmFehmW_KQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-08T07:00:58Z",
+        "channelId": "UCdTB4hMadQoqVaDiunBIkmQ",
+        "title": "Music to put you in a better mood ~ Study music - lofi / relax / stress relief",
+        "description": "Thank for Dreamhop ! Dreamhop Music on spotify: https://spoti.fi/3fNpOgA Follow \"Little Soul\" anywhere IG: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLmFehmW_KQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLmFehmW_KQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLmFehmW_KQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Little Soul",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-08T07:00:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YfM9_NBIMAgSxBpwOAaMT7dDhxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AeaR5QbXgpM"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-10T05:00:13Z",
+        "channelId": "UCenjunBhBhvKjfDAESnoppw",
+        "title": "Rod Wave - Street Runner (Official Video)",
+        "description": "rodwave #streetrunner #soulfly SoulFly Tour Dates : https://soulflytour.com/ Stream SoulFly: http://smarturl.it/SoulFlyRodWave ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AeaR5QbXgpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AeaR5QbXgpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AeaR5QbXgpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RodWave",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-10T05:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L1ypRlv2CDcGCUicIjaFuwN8utU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PzHrpIfEhJU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-10T18:00:07Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "&quot;Rising Kingdom&quot; - A Minecraft Original Music Video",
+        "description": "After 6 years, we revisit the not yet Fallen Kingdom. Listen on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PzHrpIfEhJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PzHrpIfEhJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PzHrpIfEhJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-10T18:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pi4F0PIScc4sVW7PmnOXDe5NQVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BDeK-sa82r8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-22T18:25:55Z",
+        "channelId": "UCvOUdBzr39OmTSsSqJ0Gh5A",
+        "title": "MONS - IORI 5 ( Official Music Video ) Prod Feykey",
+        "description": "IORI 5 is available on all digital platforms ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BDeK-sa82r8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BDeK-sa82r8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BDeK-sa82r8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-22T18:25:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "phHjOIF9lMEUqz5u0KLpGH8dLMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S1ZdFMz0RSw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T08:00:35Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[EPISODE] BTS (방탄소년단) @ THE FACT MUSIC AWARDS",
+        "description": "BTSEPISODE #BTS #방탄소년단 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S1ZdFMz0RSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S1ZdFMz0RSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1ZdFMz0RSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-25T08:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qLi7ZhMI73o4dcYO3Uv9owrAkBE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zwa7NzNBQig"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-23T04:00:19Z",
+        "channelId": "UCmlkznD61Olu82oYGFr8gxg",
+        "title": "GloRilla, Cardi B - Tomorrow 2 (Official Music Video)",
+        "description": "Stream GloRilla's debut EP 'Anyways, Life's Great...' out everywhere now: https://glorilla.lnk.to/ALG Follow #GloRilla: Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zwa7NzNBQig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zwa7NzNBQig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zwa7NzNBQig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GloRillaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-23T04:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RenplecFTzruPRgK4HOivo32_Ps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x9yop0nYR9g"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-17T17:00:11Z",
+        "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
+        "title": "Quavo &amp; Takeoff - HOTEL LOBBY | A COLORS SHOW",
+        "description": "quavohuncho5077 and @takeoff6305 join forces as Unc & Phew for a stellar performance of their latest single. This show is the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x9yop0nYR9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x9yop0nYR9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x9yop0nYR9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "COLORS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-17T17:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BxXEdAVGfUsO7HWjKXQ9nn5t8hQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Inu5qg0RDK8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T01:05:49Z",
+        "channelId": "UCgJgl9fqLv_B0kSXNIPt_OA",
+        "title": "PIHIKAN - Sanshai - Composed By Bryan &amp; Haris",
+        "description": "bluesky music tv lyrics.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Inu5qg0RDK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Inu5qg0RDK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Inu5qg0RDK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BlueSky Music TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T01:05:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NxY_Q4JYLlOwmdNCm8SDXnXTCgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w_XidDtn0nk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T11:00:28Z",
+        "channelId": "UC3zwjSYv4k5HKGXCHMpjVRg",
+        "title": "WE WILL RISE UNTO THE CALL | Best Epic Heroic Orchestral Music | Epic Music Mix by @AtomMusicAudio",
+        "description": "Turn on the '  ' to get notifications for new releases! Recommended Playlists: Epic Battle Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_XidDtn0nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_XidDtn0nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_XidDtn0nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Epic Music VN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T11:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "udGoRC2oOUCuhgsb4rc2m0mrvAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9tKj2yradDY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-23T02:00:09Z",
+        "channelId": "UC0hu5W5Ne6JrDDwH77nc_jg",
+        "title": "Nazia Marwiana ft Ageng Music - Rela (Official Live Music)",
+        "description": "Official Live Music : Nazia Marwiana ft Ageng Music - Rela Subscribe Global Musik Era Digital ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tKj2yradDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tKj2yradDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tKj2yradDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Global Musik Era Digital",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-23T02:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A0MkKG5PqFbi5DjfbIHv38-wRxc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xbstUcvopPU"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-10T10:55:13Z",
+        "channelId": "UCjeHgwExB6ytBil21jKOsoA",
+        "title": "Welcome to My House",
+        "description": "Provided to YouTube by TuneCore Welcome to My House · Nu Breed & Jesse Howard Outlaw Nation, Vol. 1 ℗ 2021 Outlaw ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xbstUcvopPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xbstUcvopPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xbstUcvopPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nu Breed & Jesse Howard - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-10T10:55:13Z"
+      }
+    }
+  ]
+}

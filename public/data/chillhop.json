@@ -1,0 +1,1706 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yrcBn_Yi15lxMarxZAzluJH0XqI",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t3d7llF1jpJCVyiFN7bdtl5FNvo",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-03T20:55:21Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Music",
+        "description": "Welcome to Chillhop Music! Press play & sit back to enjoy the finest jazzy / lofi / chill beats curated, created and uploaded to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ihjKj-LaAv85XFylZz-NHZo50j7dW4M-Sncj7kWGEagsp-i5s2L4Z8qRs9_8HY8nuACokEOF=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ihjKj-LaAv85XFylZz-NHZo50j7dW4M-Sncj7kWGEagsp-i5s2L4Z8qRs9_8HY8nuACokEOF=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ihjKj-LaAv85XFylZz-NHZo50j7dW4M-Sncj7kWGEagsp-i5s2L4Z8qRs9_8HY8nuACokEOF=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "live",
+        "publishTime": "2013-01-03T20:55:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oUQgVxN6paaHX7Y51MqOnlfpBzM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hcg-7s1-eS8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T16:00:09Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "❄️ Chillhop Essentials · Winter 2022 [chill lofi hiphop / cozy beats]",
+        "description": "After some much needed solo time throughout the Fall, our Chillhop Raccoon closes out a year of Essentials by reuniting with best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hcg-7s1-eS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hcg-7s1-eS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hcg-7s1-eS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T16:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MFYB-HE7UgFpiSGYN6TCp2KK55Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5yx6BWlEVcY"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-21T13:21:02Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾",
+        "description": "Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5yx6BWlEVcY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5yx6BWlEVcY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5yx6BWlEVcY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-03-21T13:21:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PlsO3q_H4bi4NDiNlGfGt860D9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D_uLM5i0Z4c"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-16T16:00:12Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Endless Sunday 😌  [Chillhop / instrumental beats]",
+        "description": "Welcome to Endless Sunday: an ongoing series of instrumental lofi hip hop mixes, where Sunday never ends, where your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_uLM5i0Z4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_uLM5i0Z4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_uLM5i0Z4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-16T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y6-1JJThi7yUM_xtpEHyl6iKDtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QhBoFEq0lU0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-14T15:00:15Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "🍂 Chillhop Essentials · Fall 2022 [chill lofi hiphop / cozy beats]",
+        "description": "Essentials Fall 2022 brings us back to Chillville, where the hot days are behind us and the cozy days are ahead. Where we last ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QhBoFEq0lU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QhBoFEq0lU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QhBoFEq0lU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-14T15:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h-kR0CN7YRROftVqcwdwAz_xUGY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZD0PBcD9l94"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T13:02:26Z",
+        "channelId": "UCq9J_CUURRfbP7vm4VN_3xg",
+        "title": "Ｌｏｆｉ Ｓｔｕｄｙ 📚 lofi music | Study Music ~ Lofi Hip Hop &amp; Chillhop Mix",
+        "description": "Ｌｏｆｉ Ｓｔｕｄｙ lofi music | Study Music ~ Lofi Hip Hop & Chillhop Mix https://youtu.be/ZD0PBcD9l94 Ｌｏｆｉ Ｓｔｕｄｙ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZD0PBcD9l94/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZD0PBcD9l94/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZD0PBcD9l94/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mimi Lofi Chill",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-27T13:02:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s-ckp6fZGzhOVxTb5Vm0ancc7rU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7NOSDKb0HlU"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-21T13:58:03Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "lofi hip hop radio - beats to study/relax to 🐾",
+        "description": "We hope you enjoy these chill lofi hip hop tunes while studying / chilling / working. ♥ ☕️ Essentials Fall 2022 (save & receive ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7NOSDKb0HlU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7NOSDKb0HlU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7NOSDKb0HlU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-03-21T13:58:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oaH1el5Z27wyNzuhYn3xURBnuRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s49CT4DTAkw"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-27T20:00:11Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Yearmix 2019 ☕️ jazz beats &amp; lofi hip hop",
+        "description": "To close off the year, here are 2.5 hours of the best chillhop / lofi hip hop tracks in 2019! What's your favorite Chillhop track(s) of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s49CT4DTAkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s49CT4DTAkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s49CT4DTAkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-27T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H80zLsEHQMOZLRArC6-aujKsoRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XeG9Y-RVKfI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T09:33:13Z",
+        "channelId": "UCFIsW2c65LNGTxpLE5q4mnA",
+        "title": "Lofi rain [Lofi Mix / Lofi HipHop / Chillhop] - Relaxing Lofi Sleep &amp; Study Music",
+        "description": "Lofi rain [Lofi Mix / Lofi HipHop / Chillhop] - Relaxing Lofi Sleep & Study Music My channel specializes in: - Relaxed driving, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XeG9Y-RVKfI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XeG9Y-RVKfI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XeG9Y-RVKfI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Zone",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-26T09:33:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "biax1ewda5BcxB99YO3OlXwHXnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O5g9Jxd4Ho0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-21T16:00:09Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "First Snow ❄️ [chill lofi beats / instrumental mix]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/firstsnow.OYD The first snow always means Winter is close. Cozy up with this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O5g9Jxd4Ho0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O5g9Jxd4Ho0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5g9Jxd4Ho0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-21T16:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zayC5qfwPyRvWqaUWqNYTBDgJyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OyyD0QKxTU4"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-26T16:00:09Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Yearmix 2021 🌕 jazz beats &amp; lofi hip hop",
+        "description": "We're ending 2021 with our annual Yearmix! Complete with favorites from our catalog this year, this mix features over 2 hours of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OyyD0QKxTU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OyyD0QKxTU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OyyD0QKxTU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-26T16:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fT1hEZralR4CYvURJiRNNkD8M4Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gwDoRPcPxtc"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-07T17:43:08Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chill Study Beats 2 • Instrumental &amp; Jazz Hip Hop Music [2016]",
+        "description": "Chill Study Beats 24/7 radio » https://chillhop.ffm.to/lofihiphopradio.eko 2 Hours of mellow jazzy beats from artists like J Dilla, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gwDoRPcPxtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gwDoRPcPxtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gwDoRPcPxtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-07T17:43:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pC5x9WfGOlwIaeq2zQM-ZDU93Kc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8iU8LPEa4o0"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-25T12:50:15Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chill Study Beats 4 • jazz &amp; lofi hiphop Mix [2017]",
+        "description": "Thanks to all 1 million of you who share the love for this music. ♥ Similar Music on Spotify » http://bit.ly/CMsingles Tracklist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8iU8LPEa4o0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8iU8LPEa4o0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8iU8LPEa4o0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-25T12:50:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jjDD105Pe337rb04OEPTVHmu_bk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DMPh9U1CaYc"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-15T15:00:11Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "🍂 Chillhop Essentials · Fall 2021 [chill beats &amp; jazz hiphop]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/fall2021.oyd Cozy up for Fall with our newest Chillhop Essentials seasonal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DMPh9U1CaYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DMPh9U1CaYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DMPh9U1CaYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-15T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4ofXgLmyKA9I0WIyLhhrpm7DFHI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8aZL9wMhGH0"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-01T15:00:17Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "☀️ Chillhop Essentials · Summer 2022 [lofi hiphop / chill relaxing beats]",
+        "description": "Essentials Summer 2022 picks up where we left off inside the Chillville metropolis. Here, our Raccoon mascot - alongside ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8aZL9wMhGH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8aZL9wMhGH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8aZL9wMhGH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-01T15:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dLzg1Fufa5CGqstw3XwiGnMUSHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SPysM9mV1jM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-03T15:00:16Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Nighttime Ramen 2 🍜 [lofi beats / jazzhop mix]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/nighttimeramen2.OYD Two tonkotsu & one miso ramen, please. Warm up your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SPysM9mV1jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SPysM9mV1jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SPysM9mV1jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-03T15:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wqh5POW43e4Sz_NoHTXbqtffg2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YrcyW38bUVI"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-07T16:00:10Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Endless Sunday 2  🎲  [lofi / jazz / instrumental hip hop beats]",
+        "description": "What's your favorite board game? Half a year ago, we debuted our mix series Endless Sunday and we instantly felt more relaxed.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YrcyW38bUVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YrcyW38bUVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YrcyW38bUVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-07T16:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-CtHBIR9314NOexCWXZKw8gDiMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aGSYKFb_zxg"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-13T12:12:42Z",
+        "channelId": "UCpNDViJ9ezD1yEY8JaLm5xQ",
+        "title": "Good Vibes Only - Hip-Hop • Chillhop • Lofi Radio 24/7",
+        "description": "Good Vibes Only - Chillhop Radio 24/7 LTB Music Spotify Playlists : lofi & chill beats : https://spoti.fi/3Fc83Ds Good Vibes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aGSYKFb_zxg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aGSYKFb_zxg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aGSYKFb_zxg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LTB Music",
+        "liveBroadcastContent": "live",
+        "publishTime": "2021-10-13T12:12:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Va3hp5EdHJ73Jp7b6LkE4nDKxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BPWIZ1049PM"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-10T18:16:17Z",
+        "channelId": "UCGGXTPYXYOdtEXuG3ATehsQ",
+        "title": "Chillhop × Bake &#39;n Switch 🍂 [ Songs to #GetBaked to / Fall Vibes / Gaming Music / Chillhop Music ]",
+        "description": "Chillhop and Bake 'n Switch came together to make a chill mix to game to! Check out Bake 'n Switch on Steam or the Nintendo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BPWIZ1049PM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BPWIZ1049PM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BPWIZ1049PM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Raccoon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-10T18:16:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JytTkv7XGSzjNJB82_2XmXDEI2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RsO7Ud1GMHQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-24T15:00:31Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Haunted House 🎃 [halloween lofi mix]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/hauntedhouse.OYD Spooky Season is here. Please proceed to the Chillhop haunted ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RsO7Ud1GMHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RsO7Ud1GMHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RsO7Ud1GMHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-24T15:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hLAVr7NOeh0VGBewP98SdHpOrG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nZQd1luqJkw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T01:15:11Z",
+        "channelId": "UCqX2Rl-aRnLhcMm-vWcPo8A",
+        "title": "Ｃｏｚｙ Ｓｔｕｄｙ 🔥 Lofi music &amp; Chillhop Mix ~ Lofi Beats To Study / Focus To",
+        "description": "Ｃｏｚｙ Ｓｔｕｄｙ Lofi music & Chillhop Mix ~ Lofi Beats To Study / Focus To https://youtu.be/nZQd1luqJkw Ｃｏｚｙ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZQd1luqJkw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZQd1luqJkw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZQd1luqJkw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bears Chillhop",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-27T01:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jEicz2sQqt-bQZDOkavuQiFLR_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4fWLbK1b88M"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-05T15:08:25Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chill Study Beats 8 📚 [lofi hip hop beats to study]",
+        "description": "Listen on your favorite platform: ・ https://chillhop.ffm.to/chillstudybeats8.oyd With Summer holidays coming to an end and a new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4fWLbK1b88M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4fWLbK1b88M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4fWLbK1b88M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-05T15:08:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6oA5WCBu-ce2PpOvAhBur3GiDlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ot6d3l9r-Lk"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-21T16:00:08Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Endless Sunday 3 ☕️ [lofi jazz beats / instrumental hip hop]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/endlesssundayv3.oyd t's time for Vol. 3 in our mix series Endless Sunday where the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ot6d3l9r-Lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ot6d3l9r-Lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ot6d3l9r-Lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-21T16:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nh1MDBF9whol7ZH56TGoBCN93mY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O66Vsq7bdQg"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-16T20:00:12Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "🌱  Chillhop Essentials · Spring 2022 [lofi hiphop / chill relaxing beats]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/spring2022.oyd With our Chillhop Raccoon mascot leaving the cozy countryside for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O66Vsq7bdQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O66Vsq7bdQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O66Vsq7bdQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-16T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LTt4rjb2jqeaCo7N-IvJR-1uieQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iEGFFyv0MH4"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-04T13:00:12Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Nighttime Ramen 🍜  [jazzy beats / lofi hip hop mix]",
+        "description": "Inner city jazzy beats mix for your late nights, with some brand new tracks. Listen to Chillhop on Spotify & Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iEGFFyv0MH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iEGFFyv0MH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iEGFFyv0MH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-04T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HMrikqjxp4AQqjO4ib-zybrZvvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mypnwpywaaw"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-02T15:00:19Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chill Study Beats 7 📚 [lofi hip hop beats to focus to]",
+        "description": "Listen on your favorite platform: ・ https://chillhop.ffm.to/chillstudybeats.oyd It's been three years since we released Chill Study ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mypnwpywaaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mypnwpywaaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mypnwpywaaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-02T15:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1X_ygicSmnAWRcdRJ5FyEFX9LTY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yimlIZEJwPY"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-20T16:30:11Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Campfire Crackling 🔥 [warm / cozy beats]",
+        "description": "Keep yourself warm & cozy during the cold days with this selection of Chillhop tracks. Tracklist (* = unreleased) *00:00:00 Hazy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yimlIZEJwPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yimlIZEJwPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yimlIZEJwPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-20T16:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wSLWhFUmqYqzUcUy7hG1XmaBUZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3SeOVVJXOUo"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-06T16:15:00Z",
+        "channelId": "UC1ygBj1gBJv3dEuosyuV4BQ",
+        "title": "Lofi Hip Hop Chillhop Music Mix  GEMN Chill Lo fi Hip Hop Beats FREE 2022",
+        "description": "Find this playlist on Spotify : https://open.spotify.com/playlist/3vAMevoWRarxF18Ckt3Sbr?si=d1e94b257c524194 ❘ Listen to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3SeOVVJXOUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3SeOVVJXOUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3SeOVVJXOUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music time for all",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-06T16:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xx56Pd0PEaRo5EQHY6MMHeV0Xlc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jfKfPfyJRdk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-12T12:12:29Z",
+        "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+        "title": "lofi hip hop radio - beats to relax/study to",
+        "description": "Thank you for listening, I hope you will have a good time here | Get the latest vinyl (limited edition) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jfKfPfyJRdk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jfKfPfyJRdk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jfKfPfyJRdk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Girl",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-07-12T12:12:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sk1T4uvGNhoWlnWPhf-gPn9RsSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i_cV8B2pjqk"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-02T16:00:11Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "❄️ Chillhop Essentials - Winter 2020 [cozy lofi hiphop instrumentals] ❄️",
+        "description": "Download / Stream / Order Vinyl ・ https://chillhop.ffm.to/winter2020.oyd Listen to Chillhop on Spotify & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_cV8B2pjqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_cV8B2pjqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_cV8B2pjqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-02T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PEESOiBCsPcg-UdcCRVyU9UtwC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ownHh9QIsRk"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-20T16:00:28Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Yearmix 2020 🎆 instrumental beats &amp; lofi hip hop",
+        "description": "Thanks for listening in 2020, here are the best Chillhop tracks of 2020. Download / Stream ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ownHh9QIsRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ownHh9QIsRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ownHh9QIsRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-20T16:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VaB1f5Hhlqi0QiQ0NDGixUTQAfo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vblXcMky4Fw"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-05T15:00:11Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "late night vibes⁴... 😴 calm chillhop beats",
+        "description": "A selection of the best calm lofi hip hop beats for those up late at night Listen on Spotify ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vblXcMky4Fw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vblXcMky4Fw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vblXcMky4Fw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-05T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y3NBpSYgNkRfYQYaEQ2egUZJFfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8RloV4t8WTE"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-21T14:00:09Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "No Signal 😶 [Chillhop Halloween Mix]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/nosignal.oyd ⏱ Track List (** = Unreleased) 00:00:00 Philanthrope - Sodium ft.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8RloV4t8WTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8RloV4t8WTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8RloV4t8WTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-21T14:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MVcnddr71I-FHAiAscLTR5SuB0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vw3iCuCRm0Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-25T14:15:11Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "🍁Chillhop Essentials - Fall 2019 - chill &amp; lofi hiphop beats",
+        "description": "Buy Vinyl / Stream / Download ・ https://chillhop.ffm.to/fall2019.oyd Fall has arrived and we are, as usual, really happy to share ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vw3iCuCRm0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vw3iCuCRm0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vw3iCuCRm0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-25T14:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZBAIIXCrkOMv8K8Z_pivkClAPhY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wuthjwzUFqg"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-02T15:00:12Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "☀️Chillhop Essentials · Summer 2021 [instrumental beats compilation]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/summer2021.oyd Summer is here with our newest Chillhop Essentials seasonal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wuthjwzUFqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wuthjwzUFqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wuthjwzUFqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-02T15:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xIRX2qICTlg0S6bxkB8SaAi-jd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CLeZyIID9Bo"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-12T11:30:07Z",
+        "channelId": "UCkKT4qf-TcPFOmpqhTawrGA",
+        "title": "Chill Lofi Mix [chill lo-fi hip hop beats]",
+        "description": "YouTube Playlists: http://listen.settle.fm/youtube Listen on Spotify, Apple Music & more: https://listen.settle.fm/playlists ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Settle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-12T11:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qhk8JfaKHTWdSTVZGAKM-Z3gOrk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A2JmGBbRrQQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-01T16:00:09Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "⛄️ Chillhop Essentials · Winter 2021 [cozy beats &amp; jazz hiphop]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/winter2021.oyd Chillhop Music welcomes a new season with its Essentials Winter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A2JmGBbRrQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A2JmGBbRrQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A2JmGBbRrQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-01T16:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bl4GVzOBdc_3R9eKPpoZyXL_xEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "np6XJDnic34"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-10T16:00:33Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Spotlight • Best Of Sleepy Fish 🐟 [cozy lofi beats]",
+        "description": "Check out the Chillhop Spotlight playlist ・https://chillhop.ffm.to/spotlight.oyd Continuing with the third instalment of our 'Chillhop ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/np6XJDnic34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/np6XJDnic34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/np6XJDnic34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-10T16:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p67BrUhxYdO3IYMUzw7yW13r3Wk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_mks123NB4o"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T14:34:01Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Beat Tapes • Mr Slipz x illiterate 📻 [instrumental hip-hop]",
+        "description": "Download / Stream ・ https://chillhop.ffm.to/beattape6.oyd UK producers illiterate and Mr. Slipz bring the boom bap vibes for their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_mks123NB4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_mks123NB4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_mks123NB4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T14:34:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bgnBLJ-ij2YAEhcTA8bCGLz0jig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tAzN2FukjnY"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-23T17:30:11Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "City Escape 🌃[jazzy beats / lofi hip hop mix]",
+        "description": "A selection of the best Chillhop tracks for those late nights in the city. Listen to chillhop on Spotify & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tAzN2FukjnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tAzN2FukjnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tAzN2FukjnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-23T17:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2MwmMKWKbZvHKNw0psZjd0N7ROk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A9sOb_r6Hy0"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-27T20:34:49Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Yearmix ☕️ chillhop &amp; lofi hip hop [2018]",
+        "description": "Chillhop / lofi hip hop had a great 2018, so here's a 2 hour mix of the best tunes from this year's Chillhop Records releases.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A9sOb_r6Hy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A9sOb_r6Hy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A9sOb_r6Hy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-27T20:34:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_kAhWryiCEk9xvXKnSal1Ysx3Lo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n5uz7egB9tA"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-12T13:15:15Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Essentials - Summer 2019 - chill &amp; groovy beats 🌴",
+        "description": "Stream / Vinyl / Merch ・ https://chillhop.ffm.to/summer2019.oyd Listen to chillhop on Spotify & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n5uz7egB9tA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n5uz7egB9tA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n5uz7egB9tA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-12T13:15:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GlUPh2Dv0UGI_Y1CVWdRzfEomhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "18yFKXsjlgI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-16T02:07:38Z",
+        "channelId": "UCsxTsDvh-xQnShEtN1M64zQ",
+        "title": "Christmas day 🎄 Lofi Cozy Vibes [chill lo-fi hip hop beats]",
+        "description": "Christmas day Lofi Cozy Vibes [chill lo-fi hip hop beats] #Lofi #LofiVibes #Christmas #Cozy #CozyVibes #Chill #HipHop #Beats ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18yFKXsjlgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18yFKXsjlgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18yFKXsjlgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "𝗖𝗛𝗜𝗟𝗟 𝗩𝗜𝗟𝗟𝗔𝗚𝗘",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-16T02:07:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2ksLkKgv0iEVmUG0scEfm0p4dxs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ygo5VcMGMCs"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-30T18:26:06Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Chillhop Yearmix 2017 • jazz &amp; lofi hiphop",
+        "description": "2017 has been an amazing year for Chillhop and it's crazy to see over 1.2 million people following the journey. As a way to close ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ygo5VcMGMCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ygo5VcMGMCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ygo5VcMGMCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-30T18:26:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mb60fwZzAniJea7G1aIGGGMzzi4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e3L1PIY1pN8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-17T15:47:45Z",
+        "channelId": "UCsIg9WMfxjZZvwROleiVsQg",
+        "title": "coffee shop radio // 24/7 lofi hip-hop beats",
+        "description": "Coffee Shop Vibes on Spotify: https://fanlink.to/CSVibes This stream's playlist is curated with an emphasis on meditation and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e3L1PIY1pN8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e3L1PIY1pN8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e3L1PIY1pN8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STEEZYASFUCK",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-17T15:47:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tY2bZOHwsofRBX7ssWMv5OpY8iU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TMTNv7_Zqkw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-10T04:11:41Z",
+        "channelId": "UC7tdoGx0eQfRJm9Qj6GCs0A",
+        "title": "winter lofi hiphop &amp; chillhop radio ❄️ beats to chill and drink hot cocoa to ☕️",
+        "description": "happy holidays! sit back, relax and enjoy this selection of Christmas beats! ☕️ SUBSCRIBE FOR HOT COCOA AND COOKIES ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TMTNv7_Zqkw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TMTNv7_Zqkw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TMTNv7_Zqkw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "nourish.",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-11-10T04:11:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FIoAzt1-PLFHapTfxvoQFEsP5GM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VaZYyx0ae_s"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-11T14:30:10Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "☃️Chillhop Essentials - Winter 2019 [cozy &amp; chill hiphop beats]",
+        "description": "Vinyl / Stream » https://chillhop.ffm.to/winter2019.oyd A fine selection of beats to keep you warm until Spring. Thanks for joining in!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VaZYyx0ae_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VaZYyx0ae_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VaZYyx0ae_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-11T14:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vae34q0qTQtjUXHQMlpxRX9gYvM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bQzIQa5YKvw"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-22T16:48:43Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "📚 Chill Study Beats 6  • instrumental hip hop mix [2019]",
+        "description": "Listen to the mix on Spotify: https://open.spotify.com/track/0oZAxySv2ClJfWK8DyMx1i?si=AFX3NPnqTMih0snCfpg-Vg Listen to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bQzIQa5YKvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bQzIQa5YKvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bQzIQa5YKvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-22T16:48:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Flwsh798_0b1bEvAiXacMCxu-Ys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FiMvo_JFwXA"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T15:00:08Z",
+        "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "title": "Taste of Summer 🌞  [lofi beats / instrumental mix]",
+        "description": "Download / Stream Chillhop Essentials Summer 2022 now! ・ https://chillhop.ffm.to/summer2022.oyd Download / Stream Taste ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiMvo_JFwXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiMvo_JFwXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiMvo_JFwXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chillhop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "13ICwzby0RjQuY67Ppa9yPIB1l0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tutZKLeGrCs"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-03T21:15:20Z",
+        "channelId": "UCszHTracx7WwjkCD3FSmGmQ",
+        "title": "Feelin&#39; good - [upbeat chillhop mix]",
+        "description": "Chillhop with an upbeat air - Relaxing in the sun, at a barbecue or just for when you're feeling good ❤️Get our merch here❤️ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tutZKLeGrCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tutZKLeGrCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tutZKLeGrCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gooey Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-03T21:15:20Z"
+      }
+    }
+  ]
+}
